@@ -1,0 +1,38 @@
+.full{
+    width: 100%;
+    height: calc(width/2);
+}
+.img{
+    width: 100%;
+    
+}
+.img-responsive{
+    max-width: 100%;
+    height: auto;
+}
+
+
+.products{
+    width: 100%;
+    height: calc(width/2);
+    background-color: #f37521;
+}
+
+.content{
+    width: 100%;
+    background-color: rgb(194, 194, 194);
+}
+
+.card:hover{
+    background-color:#f37521;
+    
+}
+
+.pCorrection{
+    text-align: center;
+    padding: 15px;
+    font-weight: bolder; 
+    color:#f37521 ;
+}
+
+
